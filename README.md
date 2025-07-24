@@ -81,10 +81,18 @@ The dataset (`customerChurn.csv`) contains customer information such as:
    cd customer-churn-app
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
-3. Run Streamlit app locally:
+4. Run Streamlit app locally:
+   ```bash
    streamlit run app.py
+
+---
+
+### 🌐 Live Demo
+👉 Try the deployed app here:
+https://customer-churn-prediction-st-app.streamlit.app
 
 ---
 
@@ -98,3 +106,8 @@ The dataset (`customerChurn.csv`) contains customer information such as:
 - Streamlit
 
 - pickle
+
+---
+
+### 📄 License
+This project is licensed under the MIT License. Feel free to use, modify, and share with credit.
